@@ -70,7 +70,7 @@ disk_image = Artifact.registerArtifact(
     cwd = 'disk-image',
     path = 'disk-image/parsec/parsec-image/parsec',
     inputs = [packer, experiments_repo, m5_binary, parsec_repo,],
-    documentation = 'Disk-image using Ubuntu 18.04 with m5 binary and PARSEC installed.'
+    documentation = 'disk-image using Ubuntu 18.04 with m5 binary and PARSEC installed.'
 )
 
 gem5_binary = Artifact.registerArtifact(
