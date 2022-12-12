@@ -98,6 +98,7 @@
         "ssh_fullname": "gem5",
         "ssh_password": "12345",
         "ssh_username": "gem5",
+        "ssh_wait_timeout": "60m",
         "vm_cpus": "16",
         "vm_memory": "8192",
         "image_name": "parsec"

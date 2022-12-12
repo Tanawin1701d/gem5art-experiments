@@ -26,6 +26,10 @@ disk-image/spec2006/spec2006-image/spec2006
 disk-image/spec2006/CPU2006v1.0.1.iso
 disk-image/spec2017/spec2017-image/spec2017
 disk-image/spec2017/cpu2017-1.1.0.iso
+#parsec image
+disk-image/parsec/parsec-image
+# parsec repo
+disk-image/parsec-benchmark/parsec-benchmark
 
 # Linux repos
 linux-stable/

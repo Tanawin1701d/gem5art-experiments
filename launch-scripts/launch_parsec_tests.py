@@ -44,7 +44,7 @@ gem5_repo = Artifact.registerArtifact(
     command = '''
         git clone https://gem5.googlesource.com/public/gem5;
         cd gem5;
-        git checkout release-staging-v20.0.0.0;
+        git checkout v21.2.1.1;
     ''',
     typ = 'git repo',
     name = 'gem5',
